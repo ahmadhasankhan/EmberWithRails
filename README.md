@@ -15,7 +15,7 @@ A short introduction of this app could easily go here.
 ## Installation
 
 First of all install the Node
-
+```
 sudo apt-get update
 sudo apt-get install nodejs
 
@@ -103,6 +103,8 @@ By default, your integration tests will run on PhantomJS. You can install via np
 * change the database.yml cinfiguration
 * `rails s`
 * Visit your backend app at http://localhost:3000.
+
+### From scratch
 
 
 ## Further Reading / Useful Links
